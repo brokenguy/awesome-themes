@@ -1,2 +1,2 @@
-# awsome-theme
-Theme for any tool
+# awesome-themes
+Themes for any tool
