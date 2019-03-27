@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Gervis">
+<style-scheme version="1.0" name="Jarvis">
   <style name="Text" foreground="#fffcfe" background="#353551"/>
   <style name="Link" foreground="#ffff00" background="#00aaff"/>
   <style name="Selection" foreground="#ffff00" background="#00aaff"/>
