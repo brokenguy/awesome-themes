@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Gervis">
+  <style name="Text" foreground="#fffcfe" background="#353551"/>
+  <style name="Link" foreground="#ffff00" background="#00aaff"/>
+  <style name="Selection" foreground="#ffff00" background="#00aaff"/>
+  <style name="LineNumber" foreground="#55aa7f" background="#f0f0f0"/>
+  <style name="SearchResult" foreground="#000000" background="#c6c6c6"/>
+  <style name="SearchScope" foreground="#000000" background="#4b00e2"/>
+  <style name="Parentheses" foreground="#ff00ff" background="#ffffff"/>
+  <style name="ParenthesesMismatch" background="#ff00ff"/>
+  <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
+  <style name="CurrentLine" foreground="#000000" background="#c2e1ff"/>
+  <style name="CurrentLineNumber" foreground="#ff007f" bold="true"/>
+  <style name="Occurrences" foreground="#000000" background="#a5a5a5"/>
+  <style name="Occurrences.Unused" foreground="#00aa00"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
+  <style name="Number" foreground="#ff55ff" bold="true"/>
+  <style name="String" foreground="#00ff7f"/>
+  <style name="Type" foreground="#d5d500" bold="true"/>
+  <style name="Local"/>
+  <style name="Global"/>
+  <style name="Field" foreground="#aaffff"/>
+  <style name="Static" foreground="#ffaaff" bold="true"/>
+  <style name="VirtualMethod" foreground="#ffaaff" italic="true"/>
+  <style name="Function" foreground="#ffaa7f" bold="true"/>
+  <style name="Keyword" foreground="#55aaff" bold="true"/>
+  <style name="PrimitiveType" foreground="#00aaff" bold="true"/>
+  <style name="Operator" foreground="#e1e170" bold="true"/>
+  <style name="Overloaded Operator" foreground="#00677c"/>
+  <style name="Punctuation" foreground="#fffcfe" background="#353551"/>
+  <style name="Preprocessor" foreground="#ffaa7f" bold="true"/>
+  <style name="Label" foreground="#ff5500"/>
+  <style name="Comment" foreground="#ababab" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#aaaaff"/>
+  <style name="Doxygen.Tag" foreground="#0000ff"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="QmlLocalId" foreground="#ffffff" bold="true" italic="true"/>
+  <style name="QmlExternalId" foreground="#00aa7f" italic="true"/>
+  <style name="QmlTypeId" foreground="#ff55ff"/>
+  <style name="QmlRootObjectProperty" foreground="#ffffff" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#ffaa00" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#00aa7f" italic="true"/>
+  <style name="JsScopeVar" foreground="#ffffff" italic="true"/>
+  <style name="JsImportVar" foreground="#00ffff" italic="true"/>
+  <style name="JsGlobalVar" foreground="#00aaff" italic="true"/>
+  <style name="QmlStateName" foreground="#ffffff" italic="true"/>
+  <style name="Binding" foreground="#dcdc00"/>
+  <style name="DisabledCode" foreground="#ffff7f" background="#7a7a7a"/>
+  <style name="AddedLine" foreground="#00aa00"/>
+  <style name="RemovedLine" foreground="#8ae234"/>
+  <style name="DiffFile" foreground="#ffffff"/>
+  <style name="DiffLocation" foreground="#ffffff"/>
+  <style name="DiffFileLine" background="#5555ff"/>
+  <style name="DiffContextLine" background="#0000ff"/>
+  <style name="DiffSourceLine" background="#ff00ff"/>
+  <style name="DiffSourceChar" foreground="#000000" background="#ffff7f"/>
+  <style name="DiffDestLine" background="#005500"/>
+  <style name="DiffDestChar" background="#55ff7f"/>
+  <style name="LogChangeLine" foreground="#ffff7f"/>
+  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
+  <style name="Declaration"/>
+  <style name="FunctionDefinition" foreground="#fcaf3e" background="#353551"/>
+  <style name="OutputArgument" italic="true"/>
+  <style name="LastStyleSentinel"/>
+</style-scheme>
